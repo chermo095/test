@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1DB209B5-ACF8-4A20-B968-7C1EDE7B6CBE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeShop/Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703 - db8f6697601ff226"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeShop.DetailsViewController.image.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macaslan/Desktop/CoffeeShop/CoffeeShop/Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703 - adce32681323de32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeShop.DetailsViewController.image.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macaslan/Desktop/CoffeeShop/CoffeeShop/Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703 - 73ec376f26a99723"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeShop.DetailsViewController.image.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macaslan/Desktop/CoffeeShop/CoffeeShop/Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703 - bfacad7fa914743a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeShop.DetailsViewController.image.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macaslan/Desktop/CoffeeShop/CoffeeShop/Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703 - c1d733323d7b98bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeShop.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CoffeeShop.DetailsViewController"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macaslan/Desktop/CoffeeShop/CoffeeShop/Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "BAF0945D-52E1-4E1D-A8F0-A83378BE7703 - ffe899b3dba79350"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeShop.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoffeeShop.DetailsViewController&gt;"
+                  moduleName = "CoffeeShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macaslan/Desktop/CoffeeShop/CoffeeShop/Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "359">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
